@@ -1,6 +1,6 @@
 body {
-    color: #748BA7!important;
-    background: #2B4970;
+    color: #000000;
+    background: #62757f;
     font-size: 1em;
     line-height: 1.75em;  
 }
@@ -11,28 +11,27 @@ h1, h2, h3, h4, h5 {
 }
 
 .bg-light {
-    background: #4C688B!important;
+    background: #90a4ae!important;
 }
 
 .navMid {
     padding: 0;
-    color: #748BA7!important;
 }
 
 .navLeft, .navMid, .navRight {
-    border-bottom: 2px solid #4C688B;
-    background: #4C688B;
+    border-bottom: 2px solid #000000;
+    background: #90a4ae;
 }
 
 .navbar-brand {
-    background: #143054;
+    background: #62757f;
     padding: 1em;
     font-weight: bold;
-    color: #748BA7!important;
+    color: #ffffff!important;
 }
 
 .nav-item {
-    border-left: 1px solid #143054;
+    border-left: 1px solid #000000;
     padding: 0;
 }
 
@@ -50,12 +49,12 @@ h1, h2, h3, h4, h5 {
 }
 
 .colorMeWhite {
-    background: #4C688B;
+    background: #c1d5e0;
 }
 
 h5 {
-    color: black;
-    border-bottom: 2px solid #4C688B;
+    color: #000000;
+    border-bottom: 2px solid #000000;
     padding-bottom: 1em;
 }
 
@@ -72,7 +71,7 @@ h5 {
 }
 
 h6 {
-    background: #4aaaa5;
+    background: #90a4ae;
     color: #ffffff;
     padding: .5em;
     position: absolute;
@@ -89,10 +88,10 @@ h6 {
 }
 
 footer {
-    background: #666666;
-    color: #ffffff;
+    background: #90a4ae;
+    color: #000000;
     font-size: .75em;
-    border-top: 5px solid #4C688B;
+    border-top: 2px solid #000000;
     
 }
 
